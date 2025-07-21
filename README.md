@@ -19,13 +19,13 @@ Each project explores a different aspect of **AI and Data Science** — from pre
 ---
 
 ## 📊 AI + Data Project
-- 🏀💸 **[NBA Betting Assistant](link-to-repo)**  
+- 💸 **[NBA Betting Assistant](link-to-repo)**  
   Combines player data and odds to suggest optimized betting strategies.  
 
 ---
 
-## 🦾 AI + Data Final Project
-- 🖥️ **[Agent On-Prem](link-to-repo)**  
+## 🎓 AI + Data Final Project
+- 🤖 **[Agent On-Prem](link-to-repo)**  
   A local AI agent with RAG and tools for managing workflows and automations.  
 
 ---
