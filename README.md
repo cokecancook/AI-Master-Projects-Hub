@@ -19,7 +19,7 @@ Each project explores a different aspect of **AI and Data Science**: from predic
 ---
 
 ## 📊 AI + Data Project
-- 🧠 **[NBA Betting Assistant](link-to-repo)**  
+- 🧠 **[NBA Betting Assistant](https://github.com/cokecancook/betmaestro)**  
   Combines player data and odds to suggest optimized betting strategies.  
 
 ---
