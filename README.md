@@ -13,15 +13,12 @@ Each project explores a different aspect of **AI and Data Science** — from pre
 - 🫀 **[Heart Disease Prediction Model](https://github.com/cokecancook/heart-disease-prediction)**  
   Predicts the likelihood of heart disease using classification algorithms.  
 
-- 🏠 **[London Real Estate Pricing Model](link-to-repo)**  
-  Forecasts property prices in London using regression techniques.  
-
 - 🏀 **[NBA Performance Model](https://github.com/cokecancook/nba-model)**  
   Analyzes player statistics to predict NBA player performance.  
 
 ---
 
-## 📊 AI + Data Projects
+## 📊 AI + Data Project
 - 🏀💸 **[NBA Betting Assistant](link-to-repo)**  
   Combines player data and odds to suggest optimized betting strategies.  
 
