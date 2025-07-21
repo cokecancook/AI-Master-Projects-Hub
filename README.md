@@ -3,9 +3,9 @@
 <img width="227" height="114" alt="Logo EDEM" src="https://github.com/user-attachments/assets/bdb7e6d2-1279-4848-a047-0f169ba84e76" />
 
 
-👋 Welcome! This repository is an index of all my projects developed during the [Master’s in AI (EDEM Business School)](https://edem.eu/master-inteligencia-artificial/).  
+👋 Welcome! This repository is an index of all my projects developed during the 2024-2025 [Master’s in AI (EDEM Business School)](https://edem.eu/master-inteligencia-artificial/).  
 
-Each project explores a different aspect of **AI and Data Science** — from predictive models and real-world data applications to intelligent agents.  
+Each project explores a different aspect of **AI and Data Science**: from predictive models and real-world data applications to intelligent agents.  
 
 ---
 
