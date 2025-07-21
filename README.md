@@ -25,7 +25,7 @@ Each project explores a different aspect of **AI and Data Science**: from predic
 ---
 
 ## 🎓 AI + Data Final Project
-- 🤖 **[Agent On-Prem](link-to-repo)**  
+- 🤖 **[Agent On-Prem](https://github.com/cokecancook/receptibot/tree/main)**  
   A local AI agent with RAG and tools for managing workflows and automations.  
 
 ---
