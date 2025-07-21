@@ -9,7 +9,7 @@ Each project explores a different aspect of **AI and Data Science**: from predic
 
 ---
 
-## 🧠 AI Projects
+## ✨ AI Projects
 - 🫀 **[Heart Disease Prediction Model](https://github.com/cokecancook/heart-disease-prediction)**  
   Predicts the likelihood of heart disease using classification algorithms.  
 
@@ -19,7 +19,7 @@ Each project explores a different aspect of **AI and Data Science**: from predic
 ---
 
 ## 📊 AI + Data Project
-- 💸 **[NBA Betting Assistant](link-to-repo)**  
+- 🧠 **[NBA Betting Assistant](link-to-repo)**  
   Combines player data and odds to suggest optimized betting strategies.  
 
 ---
