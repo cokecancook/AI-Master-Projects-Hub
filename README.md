@@ -10,7 +10,7 @@ Each project explores a different aspect of **AI and Data Science** — from pre
 ---
 
 ## 🧠 AI Projects
-- ❤️ **[Heart Disease Prediction Model](https://github.com/cokecancook/heart-disease-prediction)**  
+- 🫀 **[Heart Disease Prediction Model](https://github.com/cokecancook/heart-disease-prediction)**  
   Predicts the likelihood of heart disease using classification algorithms.  
 
 - 🏠 **[London Real Estate Pricing Model](link-to-repo)**  
